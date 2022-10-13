@@ -1,0 +1,195 @@
+[
+  {
+    "race": "Aarakocra",
+    "weight": 3,
+    "traits": {
+      "baseWeight": 80,
+      "baseHeight": 60,
+      "modWeight": "1d4",
+      "modHeight": "2d6"
+    },
+    "appearanceTables": []
+  },
+  {
+    "race": "Dragonborn",
+    "weight": 20,
+    "traits": {
+      "baseWeight": 175,
+      "baseHeight": 66,
+      "modWeight": "2d6",
+      "modHeight": "2d8"
+    },
+    "appearanceTables": [],
+    "subraces": [
+      {"race" : "Black", "weight" : 3},
+      {"race" : "Blue", "weight" : 3},
+      {"race" : "Red", "weight" : 3},
+      {"race" : "White", "weight" : 3},
+      {"race" : "Green", "weight" : 3},
+      {"race" : "Brass", "weight" : 3},
+      {"race" : "Bronze", "weight" : 3},
+      {"race" : "Copper", "weight" : 3},
+      {"race" : "Gold", "weight" : 3},
+      {"race" : "Silver", "weight" : 3},
+      {"race" : "Amethyst", "weight" : 1},
+      {"race" : "Emerald", "weight" : 1},
+      {"race" : "Sapphire", "weight" : 1},
+      {"race" : "Topaz", "weight" : 1},
+      {"race" : "Crystal", "weight" : 1}
+    ]
+  },
+  {
+    "race": "Dwarf",
+    "weight": 27,
+    "traits": {
+      "baseWeight": 122,
+      "baseHeight": 46,
+      "modWeight": "2d6",
+      "modHeight": "2d4"
+    },
+    "appearanceTables": [],
+    "subraces": [
+      { "race" : "Hill", "weight" : 1 },
+      { "race": "Mountain", "weight" : 1 }
+    ]
+  },
+  {
+    "race": "Elf",
+    "weight": 30,
+    "traits": {
+      "baseWeight": 100,
+      "baseHeight": 54,
+      "modWeight": "1d4",
+      "modHeight": "2d10"
+    },
+    "appearanceTables": [],
+    "subraces": [
+      { "race" : "Drow", "weight" : 1},
+      { "race" : "High", "weight" : 3},
+      { "race" : "Wood", "weight" : 3}
+    ]
+  },
+  {
+    "race": "Goliath",
+    "weight": 3,
+    "traits": {
+      "baseWeight": 200,
+      "baseHeight": 74,
+      "modWeight": "2d6",
+      "modHeight": "2d10"
+    },
+    "appearanceTables": []
+  },
+  {
+    "race": "Half-Elf",
+    "weight": 45,
+    "traits": {
+      "baseWeight": 110,
+      "baseHeight": 59,
+      "modWeight": "2d4",
+      "modHeight": "2d8"
+    },
+    "appearanceTables": []
+  },
+  {
+    "race": "Half-Orc",
+    "weight": 21,
+    "traits": {
+      "baseWeight": 140,
+      "baseHeight": 58,
+      "modWeight": "2d6",
+      "modHeight": "2d10"
+    },
+    "appearanceTables": []
+  },
+  {
+    "race": "Human",
+    "weight": 75,
+    "traits": {
+      "baseWeight": 110,
+      "baseHeight": 58,
+      "modWeight": "2d4",
+      "modHeight": "2d10"
+    },
+    "subraces": [
+      { "race" : "White", "weight" : 2},
+      { "race" : "Brown", "weight" : 1},
+      { "race" : "Asian", "weight" : 2},
+      { "race" : "Black", "weight" : 1}
+    ],
+    "appearanceTables": [
+      {"file": "hairstyle", "modifier":  "female+"},
+      {"file": "beard", "condition": "male"},
+      {"file": "eyeColor"},
+      {"file": "skinColor"},
+      {"file": "bodyType"},
+      {"file": "chest"}
+    ]
+  },
+  {
+    "race": "Leonin",
+    "weight": 6,
+    "traits": {
+      "baseWeight": 180,
+      "baseHeight": 66,
+      "modWeight": "2d6",
+      "modHeight": "2d10"
+    },
+    "appearanceTables": []
+  },
+  {
+    "race": "Orc",
+    "weight": 9,
+    "traits": {
+      "baseWeight": 175,
+      "baseHeight": 64,
+      "modWeight": "2d6",
+      "modHeight": "2d8"
+    },
+    "appearanceTables": []
+  },
+  {
+    "race": "Tabaxi",
+    "weight": 12,
+    "traits": {
+      "baseWeight": 90,
+      "baseHeight": 58,
+      "modWeight": "2d4",
+      "modHeight": "2d10"
+    },
+    "appearanceTables": []
+  },
+  {
+    "race": "Tiefling",
+    "weight": 22,
+    "traits": {
+      "baseWeight": 110,
+      "baseHeight": 57,
+      "modWeight": "2d4",
+      "modHeight": "2d8"
+    },
+    "appearanceTables": [],
+    "subraces": [
+      {"race" :  "Asmodeus", "weight" :  1},
+      {"race" :  "Baalzebul", "weight" :  1},
+      {"race" :  "Dispater", "weight" :  1},
+      {"race" :  "Fierna", "weight" :  1},
+      {"race" :  "Glasya", "weight" :  1},
+      {"race" :  "Levistus", "weight" :  1},
+      {"race" :  "Mammon", "weight" :  1},
+      {"race" :  "Mephistopheles", "weight" :  1},
+      {"race" :  "Zariel", "weight" :  1}
+    ]
+  },
+  {
+    "race": "Triton",
+    "weight": 3,
+    "traits": {
+      "baseWeight": 90,
+      "baseHeight": 54,
+      "modWeight": "2d4",
+      "modHeight": "2d10"
+    },
+    "appearanceTables": []
+  }
+]

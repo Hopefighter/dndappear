@@ -1,0 +1,17 @@
+input[type="checkbox"].toggle {
+  display: flex;
+
+  &::before {
+    display: flex;
+    width: 2em;
+    height: 1em;
+    background-color: red;
+  }
+
+  &::after {
+    width: 0.9em;
+    height: 0.9em;
+    background-color: green;
+  }
+}
+

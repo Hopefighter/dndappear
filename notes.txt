@@ -1,0 +1,26 @@
+Aarakocra
+Dragonborn
+Dwarf
+Elf
+Goliath
+Half-Elf
+Half-Orc
+Human
+Leonin
+Orc
+Tabaxi
+Tiefling
+Triton
+
+
+"file": ""        required
+"rolls":  0       optional default 1
+"condition": ""   optional default true
+"modifier":  ""   optional
+
+conditions
+male: only if character is male
+female: only if character is female
+
+modifiers:
+female+ advantage for female characters

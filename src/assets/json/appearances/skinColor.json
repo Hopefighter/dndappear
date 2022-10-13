@@ -1,0 +1,46 @@
+[
+  {
+    "trait": "Porcelain",
+    "weight": 1
+  },
+  {
+    "trait": "Light",
+    "weight": 1
+  },
+  {
+    "trait": "Bisque",
+    "weight": 1
+  },
+  {
+    "trait": "Medium",
+    "weight": 1
+  },
+  {
+    "trait": "Medium Tan",
+    "weight": 1
+  },
+  {
+    "trait": "Sienna",
+    "weight": 1
+  },
+  {
+    "trait": "Amber",
+    "weight": 1
+  },
+  {
+    "trait": "Tan",
+    "weight": 1
+  },
+  {
+    "trait": "Deep",
+    "weight": 1
+  },
+  {
+    "trait": "Mocha",
+    "weight": 1
+  },
+  {
+    "trait": "Espresso",
+    "weight": 1
+  }
+]
